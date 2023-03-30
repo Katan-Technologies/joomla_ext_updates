@@ -1,1 +1,26 @@
-
+<?xml version="1.0" encoding="utf-8"?>
+<updates>
+	<update>
+		<name>Blank COmponent 2</name>
+		<description>A Blank Component to display a page of modules only, on Joomla 4!</description>
+		<element>com_blankcomponent2</element>
+		<type>component</type>
+		<version>0.0.1</version>
+		<infourl title="Blank Component 2" />
+		<downloads>
+			<downloadurl 
+				type="full" 
+				format="zip">
+				https://github.com/Katan-Technologies/com_blankcomponent2/archive/refs/tags/v0.0.1.zip
+        	</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer>Kathryn Anderson</maintainer>
+		<maintainerurl>http://gokatan.com</maintainerurl>
+		<!--<section>STS</section>-->
+		<targetplatform name="joomla" version="[4].[0123456789]" />
+		<!--<php_minimum>7.4</php_minimum>-->
+	</update>
+</updates>
