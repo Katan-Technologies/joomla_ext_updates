@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <updates>
 	<update>
-		<name>Phoca Download Module</name>
+		<name>KT Downloads List</name>
 		<description>A simple Phoca Download module</description>
 		<element>mod_phocadownload</element>
 		<type>module</type>
 		<client>0</client>
 		<version>1.0</version>
-		<infourl title="Phoca Download Module" />
+		<infourl title="KT Downloads List" />
 		<downloads>
 			<downloadurl 
 				type="full" 
