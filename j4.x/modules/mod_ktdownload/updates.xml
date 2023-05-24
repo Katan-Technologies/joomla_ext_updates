@@ -2,7 +2,7 @@
 <updates>
 	<update>
 		<name>KT Downloads List</name>
-		<description>A simple Phoca Download module</description>
+		<description>A simple Download module to accompany the Phoca Download component developed by https://www.phoca.cz/</description>
 		<element>mod_ktdownload</element>
 		<type>module</type>
 		<client>0</client>
