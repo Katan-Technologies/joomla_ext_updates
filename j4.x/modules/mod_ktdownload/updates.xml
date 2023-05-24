@@ -6,7 +6,7 @@
 		<element>mod_phocadownload</element>
 		<type>module</type>
 		<client>0</client>
-		<version>1.0</version>
+		<version>1.0.0.0</version>
 		<infourl title="KT Downloads List" />
 		<downloads>
 			<downloadurl 
