@@ -3,7 +3,7 @@
 	<update>
 		<name>KT Downloads List</name>
 		<description>A simple Phoca Download module</description>
-		<element>mod_phocadownload</element>
+		<element>mod_ktdownload</element>
 		<type>module</type>
 		<client>0</client>
 		<version>1.0.0.0</version>
